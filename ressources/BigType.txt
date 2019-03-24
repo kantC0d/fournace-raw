@@ -1,0 +1,4 @@
+onimg (add PosX and PosY)
+lbyl (export one image per line)
+
+onimg (please add the following type "background" (second line))

@@ -1,0 +1,13 @@
+onimg (NEEDED) 2nd line | background
+onimg/lbyl | rectangle 
+onimg/lbyl |square
+onimg | text
+
+/!\ ONIMG USE POSX AND POSY /!\
+
+background R G B A width height
+rectangle R G B A width height (PosX PosY)
+square R G B A size (PosX PosY)
+text R G B A fontSize PosX PosY fontPath text (use %20 to make space)
+getImgFromUrl url name (PosX PosY)
+resizeImg pathToImg(.cache for imgUrl/) width(auto) height(auto)

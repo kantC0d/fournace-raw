@@ -1,0 +1,5 @@
+0 = TypeNotFound (The type on line X was not found)
+1 = BigTypeNotFound (The big type is not defined)
+2 = BackgroundNotFound (IN DEV)
+3 = ImageNotFound (The image doesn't exist or the link of the image isn't working)
+4 = BadExtension (The image extension wasn't found)
